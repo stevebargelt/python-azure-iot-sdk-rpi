@@ -1,4 +1,4 @@
-FROM resin/raspberrypi3-python:3.6
+FROM resin/raspberrypi3-python:3.4
 
 RUN \
     apt-get update && \
@@ -20,5 +20,5 @@ RUN chmod +x build_all/linux/build.sh
 RUN cd /usr/src/app/build_all/linux
 
 # Install App
-RUN /usr/src/app/build_all/linux/setup.sh --python-version 3.6
-RUN /usr/src/app/build_all/linux/build.sh --build-python 3.6
+RUN /usr/src/app/build_all/linux/setup.sh --python-version 3.4
+RUN /usr/src/app/build_all/linux/build.sh --build-python 3.4
