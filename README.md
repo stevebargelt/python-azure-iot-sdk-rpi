@@ -1,4 +1,4 @@
-# Python Azure IoT SDK for Raspberry Pi 1 and ZERO- [![Build Status](https://travis-ci.org/stevebargelt/python-azure-iot-sdk.svg?branch=master)](https://travis-ci.org/stevebargelt/python-azure-iot-sdk-rpi)[![Docker Hub Pulls](https://img.shields.io/docker/pulls/stevebargelt/python-azure-iot-sdk.svg)](https://hub.docker.com/r/stevebargelt/python-azure-iot-sdk-rpi)
+# Python Azure IoT SDK for Raspberry Pi 1 and ZERO- [![Build Status](https://travis-ci.org/stevebargelt/python-azure-iot-sdk-rpi.svg?branch=master)](https://travis-ci.org/stevebargelt/python-azure-iot-sdk-rpi)[![Docker Hub Pulls](https://img.shields.io/docker/pulls/stevebargelt/python-azure-iot-sdk-rpi.svg)](https://hub.docker.com/r/stevebargelt/python-azure-iot-sdk-rpi)
 
 Twitter: [@stevebargelt](http://www.twitter.com/stevebargelt)
 
