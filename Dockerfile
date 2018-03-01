@@ -22,3 +22,5 @@ RUN cd /usr/src/app/build_all/linux
 # Install App
 RUN /usr/src/app/build_all/linux/setup.sh --python-version 3.4
 RUN /usr/src/app/build_all/linux/build.sh --build-python 3.4
+
+CMD bash
